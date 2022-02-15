@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 # preferences_app
 
 A new Flutter project.
@@ -15,7 +15,8 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter, view our
 [online documentation](https://flutter.dev/docs), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
-=======
+==================================================================
+
 # sharedPrefences_flutter
+
 This is a project using shared preferences for save user data and we user provider for states
->>>>>>> d801e84814b4523016f6d715dd20f1f43042f33c
